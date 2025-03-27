@@ -1,0 +1,22 @@
+{
+  "name": "mtestautomation",
+  "version": "1.0.0",
+  "description": "Mentoring Testing Automation",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apriljooke/MTestAutomation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apriljooke/MTestAutomation/issues"
+  },
+  "homepage": "https://github.com/apriljooke/MTestAutomation#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.51.1",
+    "@types/node": "^22.13.14"
+  }
+}
